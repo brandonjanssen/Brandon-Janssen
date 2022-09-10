@@ -2,8 +2,7 @@
 
 
 # Brandon Janssen
-#I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and #frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and #design in general. 
-
+I'm Brandon from the United States, and I do a multitude of different things. I enjoy building and customizing Linux desktop. Crypto and web3 have become a passion in the last couple of years.
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
