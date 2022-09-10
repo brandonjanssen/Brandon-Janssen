@@ -9,4 +9,4 @@ I'm Brandon from the United States, and I do a multitude of different things. I 
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
-#<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+
