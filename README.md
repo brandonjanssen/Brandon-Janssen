@@ -2,11 +2,17 @@
 
 
 # Brandon Janssen
-I'm Brandon from the United States, and I do a multitude of different things. I enjoy building and customizing Linux desktop. Crypto and web3 have become a passion in the last couple of years.
+I'm Brandon from the United States and currently reside in Philippines, and I do a multitude of different things. I enjoy building and customizing Linux desktop. Crypto and Web3 have become a passion in the last couple of years.
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+*  Crypto
+*  Web3  
+*  Python
+-  Crypto  Forensics  
+-  Ethical Hacking  
+-  Wireshark Cyber-security    
+-  OSINT
+-  Fishing, who doesn't love to fish
 
-## Examples of Work
+
+
 
