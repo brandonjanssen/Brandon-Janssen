@@ -7,11 +7,11 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 *  Crypto
 *  Web3  
 *  Python
--  Crypto  Forensics  
--  Ethical Hacking  
--  Wireshark Cyber-security    
--  OSINT
--  Fishing, who doesn't love to fish
+*  Crypto  Forensics  
+*  Ethical Hacking  
+*  Wireshark Cyber-security    
+*  OSINT
+*  Fishing, who doesn't love to fish
 
 
 
