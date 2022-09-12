@@ -15,7 +15,7 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 -  OSINT
 -  Fishing, who doesn't love to fish
   
-> [!Stop] Not a expert
+> Not a expert
 >  Just learning the steps to land a Crypto career
 >  
 > 
