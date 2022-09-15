@@ -27,7 +27,7 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 -  Small Business Owner
 -  Fishing, who doesn't love to fish
   
-**Not a expert,Just learning the steps to land a Crypto career.**
+**Not a expert, Just learning the steps to land a Crypto career.**
 
 
 
