@@ -7,7 +7,7 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjanssen&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjanssen&layout=compact&langs_count=8)](https://github.com/brandonjanssen/github-readme-stats)
 
 
 ## Skills and Experience
