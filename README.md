@@ -5,9 +5,9 @@
 I'm Brandon from the United States and currently reside in Philippines, and I do a multitude of different things. I enjoy building and customizing Linux desktop. Crypto and Web3 have become a passion in the last couple of years.
 
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjanssen&show_icons=true&theme=radical)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjanssen&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjanssen&layout=compact&langs_count=8)](https://github.com/brandonjanssen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjanssen&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/brandonjanssen/github-readme-stats)
 
 
 ## Skills and Experience
