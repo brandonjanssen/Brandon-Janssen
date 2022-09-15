@@ -12,7 +12,8 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 -  Bash 
 -  Crypto  Forensics  
 -  Ethical Hacking  
--  Wireshark Cyber-security    
+-  Wireshark 
+-  Cyber-security 
 -  OSINT
 
 ## Non Tech Skills
