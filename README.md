@@ -4,7 +4,7 @@
 # Brandon Janssen
 I'm Brandon from the United States and currently reside in Philippines, and I do a multitude of different things. I enjoy building and customizing Linux desktop. Crypto and Web3 have become a passion in the last couple of years.
 ## Skills and Experience
--  Crypto
+-  [Crypto](https://github.com/brandonjanssen/Obsidian/tree/main/Thoughts%20About%20Crypto)
 -  [Obsidian](https://github.com/brandonjanssen/Obsidian)
 -  Web3
 -  Android
