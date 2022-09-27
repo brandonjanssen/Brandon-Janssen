@@ -41,8 +41,8 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/66816413/190385639-2762b26c-4c38-414f-b39c-85a2f3025d79.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <!--- <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> --->
-<!--- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br /> --->
+<!--- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> --->
+<br /> 
 
 ---
 <!--- <p float="left">
@@ -59,23 +59,24 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 
 
 
-[🆃🆆🅸🆃🆃🅴🆁](https://twitter.com/D_M_N_E)
-[🅶🅸🆃🅷🆄🅱](https://github.com/brandonjanssen)
-[🆆🅴🅱🆂🅸🆃🅴]( https://brandonjanssen.netlify.app)
+
 
 <details>
  <summary><h3> My Journey</h3></summary>
-  I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+  I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming. 
+  </details>
+
+</body>
+</html>
+
+ 
    
    
-  
-
-[website]: https://brandonjanssen.netlify.app/
 
 
+<details>
+ <summary><h3> Skills and Experience</h3></summary>
 
-## Skills and Experience
--  [Website](https://brandonjanssen.netlify.app/)
 -  [Crypto](https://github.com/brandonjanssen/Obsidian/tree/main/Thoughts%20About%20Crypto)
 -  [Obsidian](https://github.com/brandonjanssen/Obsidian)
 -  Web3
@@ -93,8 +94,17 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 -  Owner Operater
 -  Small Business Owner
 -  Fishing, who doesn't love to fish
+ </details>
+
+</body>
+</html>
+
+
+[🆃🆆🅸🆃🆃🅴🆁](https://twitter.com/D_M_N_E)
+[🅶🅸🆃🅷🆄🅱](https://github.com/brandonjanssen)
+[🆆🅴🅱🆂🅸🆃🅴]( https://brandonjanssen.netlify.app)
+
   
-**Not a expert, Just learning the steps to land a Crypto career.**
 
 
 
