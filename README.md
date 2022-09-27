@@ -1,7 +1,7 @@
 # Brandon Janssen
-**`Jack of all Trades (Linux Enthusiast/OS Design/Creator)`**
+**`Jack of all Trades (Linux Enthusiast)`**
 
-I'm Brandon from the United States and currently reside in Philippines, and I do a multitude of different things. I enjoy building and customizing Linux desktop. Crypto and Web3 have become a passion in the last couple of years.
+I currently reside in Philippines, and i'm a Jack of all Trades. I enjoy building and customizing Linux desktop. Crypto, Web3 and coding  have become a passion in the last couple of years.
 
 <p align="left">
   <!--    <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -51,19 +51,20 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
   <img src="/img3.png" width="100" />
 </p> --->
 
-  **Stats**           |   **Languages**
+  **Stats**           |   *Languages*
 :-------------------------:|:-------------------------:
  ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjanssen&show_icons=true&theme=tokyonight)|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjanssen&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/brandonjanssen/github-readme-stats)
 
 
-
+<h3 style="background-color:#ff6347;">...</h3>
 
 
 
 
 <details>
  <summary><h3> My Journey</h3></summary>
-  I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming. 
+ I started my computer crash course 2 years ago with a <a href="https://www.raspberrypi.com/" title="Raspberry Pi 4b" >Raspberry Pi 4b</a>, being self-taught it was the best way to start since I had no previous experience with computers and the cost of failure was low. Since then I have mastered turning a server into a fully customized desktop experience using <a href="http://www.qtile.org/" title="Qtile" >Qtile</a> as my window manager and this took some time to get used to, but well worth it if you like the speed of transitioning from project to project. The downside of being self-taught is you have no sense of direction on what to focus on and master. Since those first two years, I have configured <a href="www.gnu.org/software/emacs/" title="Emacs" >Emacs</a> several times and honestly, I believe it is the best, it just takes a long time to configure it the way you want with all the possibilities it has to offer, and since I didn't use <a href="https://github.com/brandonjanssen" title="GitHub" >GitHub</a> to save all my configs, I would have to learn it over and over again, just like I had to do with all the other programs I installed, until <a href="https://github.com/brandonjanssen/" title="GitHub" >GitHub</a>. Focus is key with tech and I have been focusing on the wrong things, my focus on Linux has been good but I have spent too much time on the configurations of Linux and not learning the tech that helps create. I have focus now and that is HTML, CSS, JavaScript, Python, and UI/UX this makes sense to me since I like tinkering with configs, what could be better than building websites to let out all my creativity. My real passion is Block-Chain and now <a href="https://agoric.com/" title="Agoric" >Agoric</a> lets you write DEFI contracts in JavaScript, so I think this is a great opportunity to use all of the languages I mentioned above and put them to good use. 
+ 
   </details>
 
 </body>
@@ -74,24 +75,31 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
    
 
 
+
 <details>
  <summary><h3> Skills and Experience</h3></summary>
 
 -  [Crypto](https://github.com/brandonjanssen/Obsidian/tree/main/Thoughts%20About%20Crypto)
--  [Obsidian](https://github.com/brandonjanssen/Obsidian)
--  Web3
--  Android
--  Python
--  Bash 
--  Crypto  Forensics  
--  Ethical Hacking  
--  Wireshark 
--  Cyber-security 
+	-  [Obsidian](https://github.com/brandonjanssen/Obsidian)
+		-  Web3
+			-  Android
+				-  Python
+					-  Bash 
+				-  Crypto  Forensics  
+			-  Ethical Hacking  
+		-  Wireshark 
+	-  Cyber-security 
 -  OSINT
+ </details>
 
-## Non Tech Skills
+</body>
+</html>
+
+<details>
+ <summary><h3>Non Tech Skills</h3></summary>
+ 
 -  Heavy Equipment Operator
--  Owner Operater
+-  Owner  Operator 
 -  Small Business Owner
 -  Fishing, who doesn't love to fish
  </details>
