@@ -24,7 +24,7 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
+---
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjanssen&show_icons=true&theme=tokyonight)
 
