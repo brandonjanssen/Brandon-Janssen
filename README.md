@@ -56,8 +56,6 @@ I currently reside in Philippines, and i'm a Jack of all Trades. I enjoy buildin
  ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonjanssen&show_icons=true&theme=tokyonight)|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonjanssen&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/brandonjanssen/github-readme-stats)
 
 
-<h3 style="background-color:#ff6347;">...</h3>
-
 
 
 
