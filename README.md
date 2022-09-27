@@ -41,8 +41,8 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/66816413/190385639-2762b26c-4c38-414f-b39c-85a2f3025d79.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <!--- <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /> --->
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<!--- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br /> --->
 
 ---
 <!--- <p float="left">
@@ -59,7 +59,9 @@ I'm Brandon from the United States and currently reside in Philippines, and I do
 
 
 
-#
+[🆃🆆🅸🆃🆃🅴🆁](https://twitter.com/D_M_N_E)
+[🅶🅸🆃🅷🆄🅱](https://github.com/brandonjanssen)
+[🆆🅴🅱🆂🅸🆃🅴]( https://brandonjanssen.netlify.app)
 
 <details>
  <summary><h3> My Journey</h3></summary>
