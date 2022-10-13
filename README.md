@@ -120,7 +120,7 @@ I currently reside in Philippines, and i'm a Jack of all Trades. I enjoy buildin
 
 [🆃🆆🅸🆃🆃🅴🆁](https://twitter.com/D_M_N_E)
 [🅶🅸🆃🅷🆄🅱](https://github.com/brandonjanssen)
-[🆆🅴🅱🆂🅸🆃🅴]( https://brandonjanssen.netlify.app)
+[🆆🅴🅱🆂🅸🆃🅴](  https://thoughts-to-sipaway.netlify.app/   )
 
   
 
