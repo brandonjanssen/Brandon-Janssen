@@ -1,7 +1,7 @@
 # Brandon Janssen
 **`Jack of all Trades (Linux Enthusiast)`**
 
-I currently reside in Philippines, and i'm a Jack of all Trades. I enjoy building and customizing Linux desktop. Block-Chain, Web3 and coding  have become a passion in the last couple of years.
+I'm a Jack of all Trades. I enjoy building and customizing Linux desktop. Block-Chain, Web3 and coding  have become a passion in the last couple of years.
 
 <p align="left">
   <!--    <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
