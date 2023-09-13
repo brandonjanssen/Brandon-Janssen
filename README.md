@@ -1,4 +1,4 @@
-# Brandon Janssen
+# dmne
 **`Jack of all Trades (Linux Enthusiast)`**
 
 I'm a Jack of all Trades. I enjoy building and customizing Linux desktop. Block-Chain, Web3 and coding  have become a passion in the last couple of years.
