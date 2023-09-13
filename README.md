@@ -61,12 +61,7 @@ I'm a Jack of all Trades. I enjoy building and customizing Linux desktop. Block-
 
 <details>
  <summary><h3> My Journey</h3></summary>
- I started my computer crash course 2 years ago with a <a href="https://www.raspberrypi.com/" title="Raspberry Pi 4b" >Raspberry Pi 4b</a>, being self-taught it was the best way to start since I had no previous experience with computers and the cost of failure was low. Since then I have mastered turning a server into a fully customized desktop experience using <a href="http://www.qtile.org/" title="Qtile" >Qtile</a> as my window manager and this took some time to get used to, but well worth it if you like the speed of transitioning from project to project. The downside of being self-taught is you have no sense of direction on what to focus on and master. Since those first two years, I have configured <a href="www.gnu.org/software/emacs/" title="Emacs" >Emacs</a> several times and honestly, I believe it is the best, it just takes a long time to configure it the way you want with all the possibilities it has to offer, and since I didn't use <a href="https://github.com/brandonjanssen" title="GitHub" >GitHub</a> to save all my configs, I would have to learn it over and over again, just like I had to do with all the other programs I installed, until <a href="https://github.com/brandonjanssen/" title="GitHub" >GitHub</a>. Focus is key with tech and I have been focusing on the wrong things, my focus on Linux has been good but I have spent too much time on the configurations of Linux and not learning the tech that helps create. I have focus now and that is HTML, CSS, JavaScript, Python, and UI/UX this makes sense to me since I like tinkering with configs, what could be better than building websites to let out all my creativity. My real passion is Block-Chain and now <a href="https://agoric.com/" title="Agoric" >Agoric</a> lets you write DEFI contracts in JavaScript, so I think this is a great opportunity to use all of the languages I mentioned above and put them to good use. 
- 
-  </details>
 
-</body>
-</html>
 
  
    
@@ -77,45 +72,12 @@ I'm a Jack of all Trades. I enjoy building and customizing Linux desktop. Block-
 <details>
  <summary><h3> Skills and Experience</h3></summary>
 
--  [Crypto](https://github.com/brandonjanssen/Obsidian/tree/main/Thoughts%20About%20Crypto)
-	-  [Obsidian](https://github.com/brandonjanssen/Obsidian)
-		-  Web3
-			-  Android
-				-  Python
-					-  Bash 
-				-  Crypto  Forensics  
-			-  Ethical Hacking  
-		-  Wireshark 
-	-  Cyber-security 
--  OSINT
- </details>
 
-</body>
-</html>
 
 
 <details>
  <summary><h3>Non Tech Skills</h3></summary>
 
--  Heavy Equipment Operator
-	-  Owner  Operator 
-	 	-  Small Business Owner
-			- Framer
-				- Carpenter
-					- Electrician
-						- Plumber
-							- Roofer
-								- Concrete Finisher
-									- Farmer
-										- Livestock Farmer 
-											- Welder
-												- Mechanic
-													- Heat Treat Operator
-														-  Fishing, who doesn't love to fish
-														 </details>
-
-</body>
-</html>
 
 
 [🆃🆆🅸🆃🆃🅴🆁](https://twitter.com/D_M_N_E)
